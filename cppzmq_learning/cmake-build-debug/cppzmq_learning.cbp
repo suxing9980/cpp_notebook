@@ -88,6 +88,12 @@
 		<Unit filename="E:/git_suxing/cpp_notebook/cppzmq_learning/ZmqCommunication.h">
 			<Option target="cppzmq_learning"/>
 		</Unit>
+		<Unit filename="E:/git_suxing/cpp_notebook/cppzmq_learning/ZmqManager.cpp">
+			<Option target="cppzmq_learning"/>
+		</Unit>
+		<Unit filename="E:/git_suxing/cpp_notebook/cppzmq_learning/ZmqManager.h">
+			<Option target="cppzmq_learning"/>
+		</Unit>
 		<Unit filename="E:/git_suxing/cpp_notebook/cppzmq_learning/main.cpp">
 			<Option target="cppzmq_learning"/>
 		</Unit>

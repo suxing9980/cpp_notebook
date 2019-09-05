@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "E:/git_suxing/cpp_notebook/cppzmq_learning/ZmqCommunication.cpp" "E:/git_suxing/cpp_notebook/cppzmq_learning/cmake-build-debug/CMakeFiles/cppzmq_learning.dir/ZmqCommunication.cpp.obj"
+  "E:/git_suxing/cpp_notebook/cppzmq_learning/ZmqManager.cpp" "E:/git_suxing/cpp_notebook/cppzmq_learning/cmake-build-debug/CMakeFiles/cppzmq_learning.dir/ZmqManager.cpp.obj"
   "E:/git_suxing/cpp_notebook/cppzmq_learning/main.cpp" "E:/git_suxing/cpp_notebook/cppzmq_learning/cmake-build-debug/CMakeFiles/cppzmq_learning.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

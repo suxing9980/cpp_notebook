@@ -5,9 +5,16 @@
 #ifndef CPPZMQ_LEARNING_ZMQCOMMUNICATION_H
 #define CPPZMQ_LEARNING_ZMQCOMMUNICATION_H
 
+#include "zmq.hpp"
 
-class ZmqCommunication {
 
+class ZmqCommunication
+{
+public:
+
+private:
+
+protected:
 };
 
 

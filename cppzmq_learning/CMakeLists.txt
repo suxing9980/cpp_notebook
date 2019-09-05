@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.14)
 project(cppzmq_learning)
 set(CMAKE_CXX_STANDARD 17)
 
-set(SOURCE_FILES main.cpp ZmqCommunication.cpp ZmqCommunication.h)
+set(SOURCE_FILES main.cpp ZmqCommunication.cpp ZmqCommunication.h ZmqManager.cpp ZmqManager.h)
 
 set(INC_DIR ${CMAKE_CURRENT_SOURCE_DIR}/cppzmq)
 #set(LINK_DIR /server/build/lib)

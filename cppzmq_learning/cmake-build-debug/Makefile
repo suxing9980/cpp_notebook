@@ -149,6 +149,33 @@ ZmqCommunication.cpp.s:
 	$(MAKE) -f CMakeFiles\cppzmq_learning.dir\build.make CMakeFiles/cppzmq_learning.dir/ZmqCommunication.cpp.s
 .PHONY : ZmqCommunication.cpp.s
 
+ZmqManager.obj: ZmqManager.cpp.obj
+
+.PHONY : ZmqManager.obj
+
+# target to build an object file
+ZmqManager.cpp.obj:
+	$(MAKE) -f CMakeFiles\cppzmq_learning.dir\build.make CMakeFiles/cppzmq_learning.dir/ZmqManager.cpp.obj
+.PHONY : ZmqManager.cpp.obj
+
+ZmqManager.i: ZmqManager.cpp.i
+
+.PHONY : ZmqManager.i
+
+# target to preprocess a source file
+ZmqManager.cpp.i:
+	$(MAKE) -f CMakeFiles\cppzmq_learning.dir\build.make CMakeFiles/cppzmq_learning.dir/ZmqManager.cpp.i
+.PHONY : ZmqManager.cpp.i
+
+ZmqManager.s: ZmqManager.cpp.s
+
+.PHONY : ZmqManager.s
+
+# target to generate assembly for a file
+ZmqManager.cpp.s:
+	$(MAKE) -f CMakeFiles\cppzmq_learning.dir\build.make CMakeFiles/cppzmq_learning.dir/ZmqManager.cpp.s
+.PHONY : ZmqManager.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -188,6 +215,9 @@ help:
 	@echo ... ZmqCommunication.obj
 	@echo ... ZmqCommunication.i
 	@echo ... ZmqCommunication.s
+	@echo ... ZmqManager.obj
+	@echo ... ZmqManager.i
+	@echo ... ZmqManager.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

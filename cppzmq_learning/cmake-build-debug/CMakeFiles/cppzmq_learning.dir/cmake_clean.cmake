@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cppzmq_learning.dir/main.cpp.obj"
   "CMakeFiles/cppzmq_learning.dir/ZmqCommunication.cpp.obj"
+  "CMakeFiles/cppzmq_learning.dir/ZmqManager.cpp.obj"
   "cppzmq_learning.pdb"
   "cppzmq_learning.exe"
   "cppzmq_learning.exe.manifest"
