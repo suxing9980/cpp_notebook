@@ -36,7 +36,7 @@ public:
         m_queue.Put(task);
     }
 
-private:
+public:
     void Start(int numThreads)
     {
         m_running = true;
