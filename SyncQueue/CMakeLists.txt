@@ -3,6 +3,6 @@ project(SyncQueue)
 
 set(CMAKE_CXX_STANDARD 17)
 
-set(SOURCE_FILES main.cpp SyncQueue.h)
+set(SOURCE_FILES main.cpp SyncQueue.hpp)
 
 add_executable(SyncQueue ${SOURCE_FILES})

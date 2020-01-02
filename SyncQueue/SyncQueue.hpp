@@ -2,8 +2,8 @@
 // Created by suxing on 2020/1/2.
 //
 
-#ifndef SYNCQUEUE_SYNCQUEUE_H
-#define SYNCQUEUE_SYNCQUEUE_H
+#ifndef SYNCQUEUE_SYNCQUEUE_HPP
+#define SYNCQUEUE_SYNCQUEUE_HPP
 
 #include <list>
 #include <mutex>
@@ -27,4 +27,4 @@ public:
 };
 
 
-#endif //SYNCQUEUE_SYNCQUEUE_H
+#endif //SYNCQUEUE_SYNCQUEUE_HPP
